@@ -1,2 +1,0 @@
-# FETarjetaCredito Apolinar solis
-
